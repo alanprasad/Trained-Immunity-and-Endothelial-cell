@@ -2,7 +2,7 @@
 Exploring the long noncoding RNA profiles in endothelial cells after repeated exposure with proinflammatory cytokines
 
 ## Description:
-This project explores the phenomenon of trained immunity in endothelial cells by studying the impact of repeated exposure to proinflammatory cytokines, IFN-γ and TNF-α. Using primary human umbilical vein-derived endothelial cells (HUVEC), the study investigates changes in gene activity and epigenetics, particularly focusing on the role of long non-coding RNAs (lncRNAs) through RNA sequencing and ATAC-seq analysis.
+This project explores the phenomenon of trained immunity in endothelial cells by studying the impact of repeated exposure to proinflammatory cytokines, IFN-γ and TNF-α. Using primary human umbilical vein-derived endothelial cell (HUVEC), the study investigates changes in gene activity and epigenetics, particularly focusing on the role of long non-coding RNAs (lncRNAs) through RNA sequencing and ATAC-seq analysis.
 
 ## Dependencies:
 To run the code in this repository, you need to have R and RStudio installed. Additionally, the following R packages are required:
