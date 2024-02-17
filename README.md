@@ -1,5 +1,5 @@
 # Trained-Immunity-and-Endothelial-cell
-Exploring the long noncoding RNA profiles in endothelial cells after repeated exposure with proinflammatory cytokines
+Exploring the long noncoding RNA profiles in endothelial cell after repeated exposure with proinflammatory cytokines
 
 ## Description:
 This project explores the phenomenon of trained immunity in endothelial cells by studying the impact of repeated exposure to proinflammatory cytokines, IFN-γ and TNF-α. Using primary human umbilical vein-derived endothelial cell (HUVEC), the study investigates changes in gene activity and epigenetics, particularly focusing on the role of long non-coding RNAs (lncRNAs) through RNA sequencing and ATAC-seq analysis.
